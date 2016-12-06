@@ -4,8 +4,7 @@ Plugin Name: Colleague Integration
 Plugin URI: 
 Description: Integrates Colleague job posting
 Version: 1
-Author: Wave
-Author URI: http://wave-group.co.uk
+Author: Aigars
 */
 
 function log_to_file($text=''){
